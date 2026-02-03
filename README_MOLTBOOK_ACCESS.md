@@ -1,5 +1,6 @@
-# README_MOLTBOOK_ACCESS.md
+# README.md
 
+# README — ChatBridge Access Request for Moltbook
 ## Access Request: ChatBridge Project — Cognitive Multi-AI Interaction
 
 ### 1. Who we are
